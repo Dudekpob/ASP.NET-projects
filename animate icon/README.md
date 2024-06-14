@@ -1,0 +1,1 @@
+Animate svg icon 
