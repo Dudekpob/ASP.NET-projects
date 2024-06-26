@@ -1,0 +1,1 @@
+Delete metadata from pictures
